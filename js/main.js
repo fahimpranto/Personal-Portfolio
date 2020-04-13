@@ -20,6 +20,7 @@
 (function ($) {
     "use strict";
 
+
     $(window).on('load', function () {
 
         /* 01. PreLoader Init

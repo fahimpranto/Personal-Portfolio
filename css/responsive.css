@@ -52,15 +52,23 @@
 
     .nav-item>a {
         padding: 0;
-        margin: -36px 0 0 0;
+        margin: -39px 50% -31px 0;
     }
 
     a>i {
         margin: 0px -20px 40px 0px;
     }
 
+    .navbar {
+        background-color: #030303 !important;
+        opacity: 0.9;
+    }
 
+    .img_responsive {
+        height: 222px;
+        width: 91%;
 
+    }
 
     /* .menu_items {
         text-align: center;
